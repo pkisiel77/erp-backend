@@ -1,0 +1,17 @@
+{
+  "name": "erp-backend",
+  "version": "1.0.0",
+  "description": "ERP Backend - A Node.js backend application for Enterprise Resource Planning",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["erp", "backend", "nodejs", "api"],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
